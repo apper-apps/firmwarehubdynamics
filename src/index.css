@@ -192,3 +192,40 @@ html {
     line-height: 1.2;
   }
 }
+
+/* Canvas and chart container fixes */
+.apexcharts-canvas {
+  min-width: 100px !important;
+  min-height: 100px !important;
+}
+
+.apexcharts-inner {
+  min-width: 100px !important;
+  min-height: 100px !important;
+}
+
+/* Prevent zero-dimension containers */
+[class*="chart"], [class*="graph"], [class*="apex"] {
+  min-width: 100px;
+  min-height: 100px;
+}
+
+/* Ensure chart containers have proper dimensions */
+.chart-container {
+  min-width: 300px;
+  min-height: 200px;
+  width: 100%;
+  height: auto;
+}
+
+/* Fix for potential canvas rendering issues */
+canvas {
+  min-width: 1px !important;
+  min-height: 1px !important;
+}
+
+/* Ensure chart wrapper has dimensions */
+.apexcharts-wrapper {
+  min-width: 100px !important;
+  min-height: 100px !important;
+}
