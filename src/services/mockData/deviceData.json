@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "name": "Galaxy S24 Ultra",
+    "model": "SM-S928B",
+    "image": "https://images.unsplash.com/photo-1607936854279-55e8f4bc233b?w=100&h=100&fit=crop",
+    "addedDate": "2024-01-20"
+  },
+  {
+    "Id": 2,
+    "name": "Galaxy S24+",
+    "model": "SM-S926B",
+    "image": "https://images.unsplash.com/photo-1607936854279-55e8f4bc233b?w=100&h=100&fit=crop",
+    "addedDate": "2024-01-18"
+  },
+  {
+    "Id": 3,
+    "name": "Galaxy S24",
+    "model": "SM-S921B",
+    "image": "https://images.unsplash.com/photo-1607936854279-55e8f4bc233b?w=100&h=100&fit=crop",
+    "addedDate": "2024-01-15"
+  },
+  {
+    "Id": 4,
+    "name": "Galaxy A55 5G",
+    "model": "SM-A556B",
+    "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=100&h=100&fit=crop",
+    "addedDate": "2024-01-12"
+  },
+  {
+    "Id": 5,
+    "name": "Galaxy A35 5G",
+    "model": "SM-A356B",
+    "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=100&h=100&fit=crop",
+    "addedDate": "2024-01-10"
+  },
+  {
+    "Id": 6,
+    "name": "Galaxy Z Fold6",
+    "model": "SM-F956B",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=100&h=100&fit=crop",
+    "addedDate": "2024-01-08"
+  },
+  {
+    "Id": 7,
+    "name": "Galaxy Z Flip6",
+    "model": "SM-F741B",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=100&h=100&fit=crop",
+    "addedDate": "2024-01-05"
+  },
+  {
+    "Id": 8,
+    "name": "Galaxy Tab S9 Ultra",
+    "model": "SM-X916B",
+    "image": "https://images.unsplash.com/photo-1589254065878-42c9da997008?w=100&h=100&fit=crop",
+    "addedDate": "2024-01-03"
+  }
+]

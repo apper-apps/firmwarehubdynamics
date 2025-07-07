@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "title": "Samsung Galaxy S24 Firmware Update Brings Enhanced AI Features",
+    "excerpt": "The latest firmware update for Samsung Galaxy S24 series introduces advanced AI capabilities and improved camera performance. Learn about the new features and how to install the update.",
+    "image": "https://images.unsplash.com/photo-1607936854279-55e8f4bc233b?w=400&h=250&fit=crop",
+    "date": "2024-01-20",
+    "url": "/blog/galaxy-s24-firmware-update-ai-features"
+  },
+  {
+    "Id": 2,
+    "title": "How to Fix Samsung Phone Boot Loop After Firmware Update",
+    "excerpt": "Experiencing boot loop issues after a firmware update? This comprehensive guide walks you through the troubleshooting steps to get your Samsung device back to normal.",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=250&fit=crop",
+    "date": "2024-01-18",
+    "url": "/blog/fix-samsung-boot-loop-firmware-update"
+  },
+  {
+    "Id": 3,
+    "title": "Samsung One UI 6.1 Features: What's New and Improved",
+    "excerpt": "Discover the latest features in Samsung One UI 6.1, including enhanced customization options, improved privacy settings, and new productivity tools.",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=250&fit=crop",
+    "date": "2024-01-15",
+    "url": "/blog/samsung-one-ui-6-1-features"
+  },
+  {
+    "Id": 4,
+    "title": "Best Practices for Samsung Firmware Flashing with Odin",
+    "excerpt": "Learn the essential tips and best practices for safely flashing Samsung firmware using Odin tool. Avoid common mistakes and ensure successful installation.",
+    "image": "https://images.unsplash.com/photo-1562408590-e32931084e23?w=400&h=250&fit=crop",
+    "date": "2024-01-12",
+    "url": "/blog/samsung-firmware-flashing-odin-best-practices"
+  },
+  {
+    "Id": 5,
+    "title": "Samsung Galaxy A Series: Latest Firmware Updates and Security Patches",
+    "excerpt": "Stay updated with the latest firmware releases for Samsung Galaxy A series devices, including security patches and performance improvements.",
+    "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=400&h=250&fit=crop",
+    "date": "2024-01-10",
+    "url": "/blog/galaxy-a-series-firmware-updates"
+  },
+  {
+    "Id": 6,
+    "title": "Understanding Samsung CSC Codes: Region and Carrier Information",
+    "excerpt": "Learn about Samsung CSC codes, what they mean, and how they affect your device's firmware compatibility and features.",
+    "image": "https://images.unsplash.com/photo-1589254065878-42c9da997008?w=400&h=250&fit=crop",
+    "date": "2024-01-08",
+    "url": "/blog/samsung-csc-codes-guide"
+  }
+]

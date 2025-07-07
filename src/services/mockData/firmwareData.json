@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 1,
+    "model": "SM-G991B",
+    "region": "DBT",
+    "version": "G991BXXU5FWL5",
+    "buildDate": "2024-01-15",
+    "size": "6.8 GB",
+    "downloadUrl": "https://example.com/firmware/SM-G991B_DBT_G991BXXU5FWL5.zip"
+  },
+  {
+    "Id": 2,
+    "model": "SM-G991B",
+    "region": "BTU",
+    "version": "G991BXXU5FWL4",
+    "buildDate": "2024-01-12",
+    "size": "6.9 GB",
+    "downloadUrl": "https://example.com/firmware/SM-G991B_BTU_G991BXXU5FWL4.zip"
+  },
+  {
+    "Id": 3,
+    "model": "SM-N981B",
+    "region": "DBT",
+    "version": "N981BXXU5GWM2",
+    "buildDate": "2024-01-18",
+    "size": "7.2 GB",
+    "downloadUrl": "https://example.com/firmware/SM-N981B_DBT_N981BXXU5GWM2.zip"
+  },
+  {
+    "Id": 4,
+    "model": "SM-A525F",
+    "region": "XEF",
+    "version": "A525FXXU5DWL1",
+    "buildDate": "2024-01-10",
+    "size": "5.4 GB",
+    "downloadUrl": "https://example.com/firmware/SM-A525F_XEF_A525FXXU5DWL1.zip"
+  },
+  {
+    "Id": 5,
+    "model": "SM-S908B",
+    "region": "DBT",
+    "version": "S908BXXU3BWL8",
+    "buildDate": "2024-01-20",
+    "size": "8.1 GB",
+    "downloadUrl": "https://example.com/firmware/SM-S908B_DBT_S908BXXU3BWL8.zip"
+  },
+  {
+    "Id": 6,
+    "model": "SM-G973F",
+    "region": "BTU",
+    "version": "G973FXXUEFWK3",
+    "buildDate": "2024-01-08",
+    "size": "4.8 GB",
+    "downloadUrl": "https://example.com/firmware/SM-G973F_BTU_G973FXXUEFWK3.zip"
+  }
+]

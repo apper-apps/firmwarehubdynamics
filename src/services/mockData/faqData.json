@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "question": "What is Samsung firmware and why do I need it?",
+    "answer": "Samsung firmware is the operating system software that controls your device's hardware and functionality. You might need to flash firmware to fix software issues, upgrade to newer versions, or restore your device to working condition after problems like bootloops or crashes."
+  },
+  {
+    "Id": 2,
+    "question": "Is it safe to flash firmware on my Samsung device?",
+    "answer": "Yes, flashing official Samsung firmware is generally safe when done correctly. However, you should always backup your device first and ensure you're using the correct firmware for your exact model and region. Using incorrect firmware can damage your device."
+  },
+  {
+    "Id": 3,
+    "question": "How do I find the correct firmware for my Samsung device?",
+    "answer": "You need to know your device's exact model number and CSC (Country/Carrier) code. You can find this information in Settings > About phone > Model number. Use our firmware finder tool above to search for the correct firmware based on your device model and region."
+  },
+  {
+    "Id": 4,
+    "question": "What tools do I need to flash Samsung firmware?",
+    "answer": "The most common tool for flashing Samsung firmware is Odin (for Windows) or Heimdall (for Mac/Linux). You'll also need the correct USB drivers for your device and a reliable USB cable. Some newer devices also support flashing via Samsung Smart Switch."
+  },
+  {
+    "Id": 5,
+    "question": "Will flashing firmware void my warranty?",
+    "answer": "Flashing official Samsung firmware typically doesn't void your warranty, as you're installing the same software that came with your device. However, rooting your device or installing custom firmware will void your warranty. Always check your warranty terms before proceeding."
+  },
+  {
+    "Id": 6,
+    "question": "What should I do if my device gets stuck during firmware flashing?",
+    "answer": "If your device gets stuck during flashing, don't panic. First, try to put your device into Download mode and retry the flashing process. If that doesn't work, you may need to use emergency firmware recovery methods or contact Samsung support for assistance."
+  },
+  {
+    "Id": 7,
+    "question": "How long does it take to flash Samsung firmware?",
+    "answer": "The flashing process typically takes 10-20 minutes, depending on your device model and the size of the firmware file. Never disconnect your device during the process, as this can cause serious damage. The device will restart automatically when flashing is complete."
+  },
+  {
+    "Id": 8,
+    "question": "Can I downgrade my Samsung device to an older firmware version?",
+    "answer": "In most cases, yes, you can downgrade to an older firmware version. However, Samsung sometimes implements anti-rollback protection that prevents downgrading past certain versions. Always check if downgrading is possible for your specific device model before attempting."
+  }
+]
